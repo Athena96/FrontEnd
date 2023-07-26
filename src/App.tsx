@@ -28,7 +28,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Jared TS: Edit <code>src/App.tsx</code> and save to reload.
+            This is a test app
           </p>
           <p>2 + 3 = {this.state.res}</p>
           <a

@@ -2,14 +2,14 @@
 const awsconfig = {
     Auth: {
       region: 'us-east-1',
-      userPoolId: 'us-east-1_AA5yTAvmw',
-      userPoolWebClientId: '3pipop8gkjj6vcrud7k8nj66fq',
+      userPoolId: 'us-east-1_1vph21DjX',
+      userPoolWebClientId: '4frfkri1535dldem3bh3bgfvue',
     },
     API: {
         endpoints: [
             {
                 name: "Endpoint", // name of the API in API Gateway console
-                endpoint: "https://8351pwpo0k.execute-api.us-east-1.amazonaws.com/prod",
+                endpoint: "https://i1x4l94mh0.execute-api.us-east-1.amazonaws.com/prod",
                 region: "us-east-1",
                 paths: ['/']
             }
